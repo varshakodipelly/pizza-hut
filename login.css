@@ -1,0 +1,14 @@
+body{
+    background-image: url(bg5.jpg);
+    background-size: 1350px 700px;
+}
+form{
+    margin-left: 1020px;
+    margin-bottom: 350px; 
+}
+label{
+    color:blue;
+}
+h1{
+    color:green;
+}
